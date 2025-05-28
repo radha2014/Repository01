@@ -16,7 +16,7 @@ import java.util.ResourceBundle;
 import java.util.Set;
 
 public class FolderComp {
-	private static String REF_FOLDER = "";
+	private static String REF_FOLDER = " ";
 	private static String FOLDER2CLEAN = "";
 	private static String COMPCLASS = "";
 
